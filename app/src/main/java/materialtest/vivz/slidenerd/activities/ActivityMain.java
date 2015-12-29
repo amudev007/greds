@@ -41,7 +41,7 @@ import me.tatarka.support.job.JobScheduler;
 
 
 public class ActivityMain extends ActionBarActivity implements MaterialTabListener, View.OnClickListener {
-
+fdvbegbetgrtgg35tg53g35g
     //int representing our 0th tab corresponding to the Fragment where search results are dispalyed
     public static final int TAB_SEARCH_RESULTS = 0;
     //int corresponding to our 1st tab corresponding to the Fragment where box office hits are dispalyed
